@@ -1,0 +1,2 @@
+tar: v@version@:. name=policy-templates
+spec: .gear/admx-firefox.spec
